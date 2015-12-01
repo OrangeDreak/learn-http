@@ -76,7 +76,8 @@ TCP链接需要知道服务器的IP和端口号，（就如给别人打电话，
 * http://www.netscape.com:80/index.html (IP已经变成的域名，由Domain Name System解析)
 * http://www.netscape.com/index.html (默认端口号为80)
 
-###1.6.3 一个使用Telnet的实例（看书理解）
+###1.6.3 一个使用Telnet的实例
+请看书理解。
 
 ###1.7 HTTP协议版本
 * HTTP/0.9   - 1991年原型版，只支持get，很快被1.0取代
