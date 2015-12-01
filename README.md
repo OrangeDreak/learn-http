@@ -20,11 +20,11 @@ WEB服务器会给所有对象数据加上MIME类型。
 
 ###1.3.2 URI （Uniform Resource Identifier） 
 每个WEB资源都有统一资源标识符URI，URI有URL和URN两种形式。
-URI如：http://www.abc.com/a.gif     
+URI如：![](http://www.abc.com/a.gif)     
 URN如：urn:ietf:rfc:2141 
 
 ###1.3.3 URL （Uniform Resource Location）
-URL(统一源资定位符)描述资源的特定位置，如：http://abc.com/a.gif    
+URL(统一源资定位符)描述资源的特定位置，如：![](http://abc.com/a.gif)    
 URL通常有三部分组成方案、因特网地址、资源      
 方案：       http://                
 因特网地址:  abc.com              
